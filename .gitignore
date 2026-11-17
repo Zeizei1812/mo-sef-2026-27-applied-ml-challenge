@@ -10,3 +10,6 @@ wheels/
 .venv
 data/
 sample_submission.csv
+
+# Data / submissions (too large for GitHub)
+*.csv
